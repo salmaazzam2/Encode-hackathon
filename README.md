@@ -126,6 +126,18 @@ npm start
   - Deep Blue: Positive dream collection
   - Deep Red: Negative dream collection
   - Neutral Blue: Mixed or neutral dreams
+ 
+### Images
+ ![image](https://github.com/user-attachments/assets/858bf4a3-20f2-4c84-8c63-41f0f4d62d4a)
+
+ ![image](https://github.com/user-attachments/assets/dd11c3e1-6f0a-41ab-ae21-5522c9172396)
+
+ ![image](https://github.com/user-attachments/assets/0a25aec4-d68c-405d-8a57-f7d3c649cc6f)
+
+ ![image](https://github.com/user-attachments/assets/a106ad7b-f137-4032-b168-f72e1eadd21f)
+ 
+ ![image](https://github.com/user-attachments/assets/d76f14c2-602b-4e26-86e0-06662d70f5d3)
+
 
 ## 🔧 Configuration
 
