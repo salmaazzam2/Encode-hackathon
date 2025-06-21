@@ -138,6 +138,9 @@ npm start
  
  ![image](https://github.com/user-attachments/assets/d76f14c2-602b-4e26-86e0-06662d70f5d3)
 
+## 🚀 Future developments
+
+Bring the dream to life as a video so we can relive and remember the dream in a more vivid and fun way!
 
 ## 🔧 Configuration
 
