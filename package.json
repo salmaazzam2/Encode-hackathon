@@ -1,0 +1,27 @@
+{
+  "name": "dream-visualizer",
+  "version": "1.0.0",
+  "description": "A webapp that visualizes dreams as stars in a 3D sky",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": [
+    "dreams",
+    "visualization",
+    "ai",
+    "3d"
+  ],
+  "author": "Dream Visualizer Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}
